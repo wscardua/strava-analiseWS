@@ -22,6 +22,6 @@ Analytics
 
 ## Solução
 
-## Estruturação da Soluçãi
+## Estruturação da Solução
 
 ## Resultado

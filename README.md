@@ -13,7 +13,6 @@ Encontrar equipamentos/barometro que disponibilizem dadoo, transformar dados
 *Strava - Aplicativo de monitoria de atividade fisica
 
 ## Abordagem
-
 1. API do Strava
   - Estrair Dados e transformar dados dos segmentos pela API via phyton;
   - Converter dados de latitude e longitude em direção;

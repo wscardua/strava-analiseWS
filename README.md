@@ -36,10 +36,8 @@ Analisar o coeficiente de correlação de person do dados obtidos finais a fim d
 ## Estruturação Resumida da Solução
 
 <p align="center">
-	<img src="estruutra-solucao.jpg" height="50%" width="50%">
+	<img src="estrutura-da-solucao-Strava.PNG" height="50%" width="50%">
 </p
-
-
 
 ## Resultado
 

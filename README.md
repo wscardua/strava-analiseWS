@@ -1,24 +1,23 @@
-# Analise de dados do Strava com Pandas
+# Analise e Mneração de dados do Strava com Python e Pandas
 Analytics
-
-## Hitpotese
-
-## Coleta e Transformação dos Dados
-
-## Explotação dos Dados
-
-## Analise dos Dados
-
-## Resultados
-
-
------------------------------
 
 ## Motivação
 
+Em minhas atividades ciclisticas é notável a diferença do esforço fisíco necessário para performar quando a direção do vento esta contra, foi por isso que a curiosidade me levou a explorar o quanto isso é impactante em minha performance geral 
+
 ## Desafio
 
+Consumir API do *Strava por segmento, transformar campos Lat e Long
+Encontrar equipamentos/barometro que disponibilizem dadoo, transformar dados
+
+*Strava - Aplicativo de monitoria de atividade fisica
+
 ## Abordagem
+
+1.API do Strava
+
+2.Barometro
+
 
 ## Solução
 

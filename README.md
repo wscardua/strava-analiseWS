@@ -12,12 +12,12 @@ Encontrar equipamentos/barometro que disponibilizem dadoo, transformar dados
 
 ## Abordagem
 1. API do Strava
-  - Estrair Dados e transformar dados dos segmentos pela API via phyton;
-  - Converter dados de latitude e longitude em direção;
+    - Estrair Dados e transformar dados dos segmentos pela API via phyton;
+    - Converter dados de latitude e longitude em direção;
 
 2. Barometro
-  - Extrair e transformar dados do arquivo contendo as informações climáticas pelo Pandas;
-  - Agrupar dados para obter a média e direção da velocidade do vento;
+    - Extrair e transformar dados do arquivo contendo as informações climáticas pelo Pandas;
+    - Agrupar dados para obter a média e direção da velocidade do vento;
   
 3. Relacionar dados dos segmentos do Strava aos dados climáticos
 4. Filtrar apenas segmentos cujo a direção dos ventos seja oposta

@@ -1,5 +1,5 @@
-# Analise e Mneração de dados do Strava com Python e Pandas
-Analytics
+# Analise e Meração de dados do Strava
+Python/Pandas/Pyplot/seaborn
 
 ## Motivação
 

@@ -9,6 +9,7 @@ Consumir a API do *Strava por segmento determinando o angulo e consequentemente 
 Transformar dados disponibilizados pelo anemômetro a a fim de encontrar a velocidade e direção do vento
 
 *Strava (Aplicativo de monitoria de atividade fisica) https://developers.strava.com/docs/reference/
+
 *Anemômetro - http://www.rodosol.com.br/_util/anemometro/index.html
 
 ## Abordagem

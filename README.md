@@ -41,7 +41,7 @@ Analisar o coeficiente de correlação de person do dados obtidos finais a fim d
 
 ## Resultado
 
-Dado a plotagem da correção entre as variaveis de interesse, ficou claro que a velocidade média dos ventos em sentido adverso ao do segmento não tem correção forte com quase memnhuma das demais variaveis, o que frustra a hipotese inicial de que a velocidade de ventos contrários aos segmentos terial relação forte a media de batimento cardiaco e de pontencia/watts, embora apresente relação moderada com outras.
+Dado a plotagem da correção entre as variaveis de interesse, ficou claro que a velocidade média dos ventos em sentido adverso ao do segmento não tem correção forte com quase memnhuma das demais variaveis, o que frustra a hipotese inicial de que a velocidade de ventos contrários aos segmentos terial relação forte a media de batimento cardiaco e de pontencia/watts, embora apresente relação moderada entre outras.
 
 <p align="center">
 	<img src="correlacao-Strava.PNG" height="50%" width="50%">

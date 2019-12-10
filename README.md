@@ -44,5 +44,9 @@ Analisar o coeficiente de correlação de person do dados obtidos finais a fim d
 
 Dado a plotagem da correção entre as variaveis de interesse, ficou claro que a velocidade média dos ventos em sentido adverso ao do segmento não tem correção forte com quase memnhuma das demais variaveis, o que frustra a hipotese inicial de que a velocidade de ventos contrários aos segmentos terial relação forte a media de batimento cardiaco e de pontencia/watts, embora apresente relação moderada com outras.
 
+<p align="center">
+	<img src="correlacao-Strava.PNG" height="50%" width="50%">
+</p
+
 Infelizmente os dados podem estar enviezados, já que os únicos dados de monitoria meteorologica minimamente estruturados (que é uma das variaveis alvo) foi obtida por um instrumento que esta localizado em um dos únicos dois pontos que apresentam predominancia de ventos muito discrepamente do resto de Vitória/Vila Velha
 

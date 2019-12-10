@@ -1,5 +1,5 @@
 # Mineração e Analise de dados do Strava
-Python/Pandas/Pyplot/seaborn
+Python/Pandas/Pyplot/Seaborn/Pyplot
 
 ## Motivação
 Em minhas atividades ciclisticas é notável a diferença do esforço fisíco necessário para performar quando a direção do vento esta desfavorável, foi por isso que a curiosidade me levou a explorar o quanto isso é impactante em minha performance geral e em especial na media de batimento cardiaco e de pontencia/watts

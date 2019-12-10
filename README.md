@@ -5,7 +5,7 @@ Python/Pandas/Pyplot/Seaborn/Pyplot
 Em minhas atividades ciclisticas é notável a diferença do esforço fisíco necessário para performar quando a direção do vento esta desfavorável, foi por isso que a curiosidade me levou a explorar o quanto isso é impactante em minha performance geral e em especial na media de batimento cardiaco e de pontencia/watts
 
 ## Principais Desafio
-Consumir a API do *Strava por segmento determinando o angulo e consequentemente a direção tomada para cada um; Transformar dados disponibilizados pelo anemômetro a a fim de encontrar a velocidade, direçãom e força do vento
+Consumir a API do *Strava por segmento determinando o angulo e consequentemente a direção tomada para cada um; Transformar dados disponibilizados pelo *anemômetro aa fim de encontrar a velocidade, direçãom e força do vento
 
 *Strava (Aplicativo de monitoria de atividade fisica) https://developers.strava.com/docs/reference/
 

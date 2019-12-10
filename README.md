@@ -14,7 +14,7 @@ Consumir a API do *Strava por segmento determinando o angulo e consequentemente 
 ## Abordagem
 1. API do Strava
     - Extrair Dados e transformar dados dos segmentos pela API via phyton;
-    - Determinar o angulo do vento em função da latitude e longitude;
+    - Determinar o angulo do segmento em função da latitude e longitude;
     - Determinar a quantidade de calorias queimadas por meio da conversão de kilojaules;
     - Remover colunas desnecessárias;
     - Analise exploratoria dos dados via Pandas/Seaborn

@@ -1,4 +1,4 @@
-# Analise e Meração de dados do Strava
+# Mineração e Analise de dados do Strava
 Python/Pandas/Pyplot/seaborn
 
 ## Motivação

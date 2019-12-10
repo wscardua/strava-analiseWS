@@ -47,5 +47,10 @@ Dado a plotagem da correção entre as variaveis de interesse, ficou claro que a
 	<img src="correlacao-Strava.PNG" height="50%" width="50%">
 </p
 
-Entretanto os dados podem estar enviezados, já que os únicos dados de monitoria meteorologica minimamente estruturados (que é uma das variaveis alvo) foi obtida por um instrumento que esta localizado em um dos únicos dois pontos que apresentam predominancia de ventos muito discrepamente do resto de Vitória/Vila Velha
+Entretanto os dados podem estar enviezados, já que os únicos dados de monitoria meteorologica minimamente estruturados (que é uma das variaveis alvo) foi obtida por um instrumento que esta localizado em um dos únicos dois pontos que apresentam predominancia de ventos muito discrepamente do resto de Vitória/Vila Velha.
+
+! Continuarei na busca de dados que reflitam com mais exatidão as reais condições climaticas da localidade para comprovar ou não minha hipotese inicial, desta forma terei condições de desenvolver um modelo de predição multivariada bem interessante
+
+
+
 

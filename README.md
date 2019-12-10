@@ -25,7 +25,7 @@ Consumir a API do *Strava por segmento determinando o angulo e consequentemente 
     - Analise exploratoria dos dados via Pandas
   
 3. Cruzar dados dos segmentos do Strava aos dados climáticos obtidos pelo anemômetro;
-4. Filtrar apenas segmentos cujo a direção dos ventos seja oposta a direção dos ventos obtidos pelo anemômetro;
+4. Filtrar apenas segmentos cujo a direção dos ventos seja oposta a direção dos ventos obtidos pelo anemômetro (considerando apenas Norte e Sul);
 6. Remover todas as variaveis que não são de interese;
 5. Correlacionar Váriaveis.
   

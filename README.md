@@ -31,7 +31,7 @@ Consumir a API do *Strava por segmento determinando o angulo e consequentemente 
   
 ## Solução
 
-Analisar o coeficiente de correlação de person do dados obtidos finais a fim de identificar possíveis relações fortes que podem comprovar a hipotese inicial
+Analisar o coeficiente de correlação de person do dataset fnal obtidos a fim de identificar possíveis relações fortes que podem comprovar a hipotese inicial
 
 ## Estruturação Resumida da Solução
 

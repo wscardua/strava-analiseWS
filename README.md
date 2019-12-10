@@ -2,7 +2,7 @@
 Python/Pandas/Pyplot/seaborn
 
 ## Motivação
-Em minhas atividades ciclisticas é notável a diferença do esforço fisíco necessário para performar quando a direção do vento esta desfavorável, foi por isso que a curiosidade me levou a explorar o quanto isso é impactante em minha performance geral e em especial a media de batimento cardiaco e de pontencia/watts
+Em minhas atividades ciclisticas é notável a diferença do esforço fisíco necessário para performar quando a direção do vento esta desfavorável, foi por isso que a curiosidade me levou a explorar o quanto isso é impactante em minha performance geral e em especial na media de batimento cardiaco e de pontencia/watts
 
 ## Principais Desafio
 Consumir a API do *Strava por segmento determinando o angulo e consequentemente a direção tomada para cada segmento 
